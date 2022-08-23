@@ -1,2 +1,2 @@
 #Html Ödev 1
-Bu repo html dersinin ilk ödevini içermektedir.
+Bu repo html dersinin ödevini içermektedir.
